@@ -1,0 +1,18 @@
+body{
+    margin:0; padding:0;
+}
+
+section{ 
+    background-color: #000;
+    height: 1580vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section > div{
+    margin:0 auto;
+    margin-top: 50px;
+    width: 900px;
+    
+}
